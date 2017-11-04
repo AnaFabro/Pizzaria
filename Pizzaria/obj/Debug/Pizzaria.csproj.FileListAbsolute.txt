@@ -1,0 +1,17 @@
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Login.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.MenuPrincipal.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.TelaPedido.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.VerPedido.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Pizza.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Bebida.resources
+c:\users\ibm_admin\documents\visual studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.ClienteF.resources
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.UsuarioF.resources
